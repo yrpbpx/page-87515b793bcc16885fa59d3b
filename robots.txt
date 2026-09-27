@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.7kuo4e1.cn/sitemap.xml
